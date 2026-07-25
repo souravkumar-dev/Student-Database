@@ -1,4 +1,4 @@
-This is a Student Database Management System for School/College, having modern UI and built on ReactJS, TailwindCSS, Express js, Node js and mongoDB.
+This is a Student Database Management System for School/College, having modern UI and built on ReactJS, TailwindCSS, Express js, Node js and mongoDB. 
 It contains proper authentical and authorization and middlewares for error handling.
 
 <img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/11c17321-438f-404a-b930-826b1bb5d273" />
